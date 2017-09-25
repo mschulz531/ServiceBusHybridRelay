@@ -1,0 +1,15 @@
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\ProductsModel.dll
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\ProductsModel.pdb
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.csproj.CoreCompileInputs.cache
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.dll
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.pdb
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\ProductsModel.dll
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\ProductsModel.pdb
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.csprojResolveAssemblyReference.cache
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.csproj.CoreCompileInputs.cache
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.dll
+C:\Users\mschulz\Documents\Visual Studio 2017\Projects\ServiceBusHybridRelaySolution\ProductsModel\obj\Debug\ProductsModel.pdb

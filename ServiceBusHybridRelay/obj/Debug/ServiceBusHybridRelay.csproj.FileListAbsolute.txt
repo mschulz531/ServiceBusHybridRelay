@@ -1,0 +1,7 @@
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ServiceBusHybridRelay.exe.config
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ServiceBusHybridRelay.exe
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ServiceBusHybridRelay.pdb
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelay.csprojResolveAssemblyReference.cache
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelay.csproj.CoreCompileInputs.cache
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelay.exe
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelay.pdb

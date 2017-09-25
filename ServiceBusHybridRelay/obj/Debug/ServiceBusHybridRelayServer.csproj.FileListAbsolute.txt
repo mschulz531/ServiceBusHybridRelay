@@ -1,0 +1,11 @@
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelayServer.csproj.CoreCompileInputs.cache
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ServiceBusHybridRelayServer.csprojResolveAssemblyReference.cache
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ProductsModel.dll
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ProductsModel.pdb
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ProductsServer.exe.config
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ProductsServer.exe
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\bin\Debug\ProductsServer.pdb
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ProductsServer.exe
+C:\Users\mschulz\OneDrive\VS-projects\ServiceBusHybridRelaySolution\ServiceBusHybridRelay\obj\Debug\ProductsServer.pdb
